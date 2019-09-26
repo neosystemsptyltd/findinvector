@@ -32,7 +32,8 @@
 			<Add option="-Wall" />
 			<Add option="-fexceptions" />
 		</Compiler>
-		<Unit filename="findInvector.cpp" />
+		<Unit filename="findinvector.cpp" />
+		<Unit filename="findinvector.hpp" />
 		<Extensions>
 			<code_completion />
 			<debugger />
