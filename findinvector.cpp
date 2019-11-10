@@ -1,7 +1,7 @@
 #include <utility>
 #include <vector>
 #include <algorithm>
-#include "findInvector.hpp"
+#include "findinvector.hpp"
 
 /*
 Generic function to find an element in vector and also its position.
@@ -9,6 +9,7 @@ It returns a pair of bool & int i.e.
 
 bool : Represents if element is present in vector or not.
 int : Represents the index of element in vector if its found else -1
+
 
 */
 template < typename T>
